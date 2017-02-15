@@ -200,7 +200,7 @@
   :ubid "LANDSAT_7/ETM/sr_band4",
   :tile_y -3000}
  {:satellite "LANDSAT_7",
-  :tags #{"swir"},
+  :tags #{"swir1"},
   :instrument "ETM",
   :data_mask {},
   :band_product "sr_refl",
@@ -362,7 +362,7 @@
   :ubid "LANDSAT_7/ETM/toa_band4",
   :tile_y -3000}
  {:satellite "LANDSAT_7",
-  :tags #{"swir"},
+  :tags #{"swir1"},
   :instrument "ETM",
   :data_mask {},
   :band_product "toa_refl",

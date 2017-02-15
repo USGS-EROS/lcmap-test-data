@@ -200,7 +200,7 @@
   :ubid "LANDSAT_4/TM/sr_band4",
   :tile_y -3000}
  {:satellite "LANDSAT_4",
-  :tags #{"swir"},
+  :tags #{"swir1"},
   :instrument "TM",
   :data_mask {},
   :band_product "sr_refl",
@@ -362,7 +362,7 @@
   :ubid "LANDSAT_4/TM/toa_band4",
   :tile_y -3000}
  {:satellite "LANDSAT_4",
-  :tags #{"swir"},
+  :tags #{"swir1"},
   :instrument "TM",
   :data_mask {},
   :band_product "toa_refl",
