@@ -13,7 +13,7 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("LANDSAT_8" "OLI_TIRS" "LINEAGEQA"),
+  :tags ("LANDSAT" "8" "OLI" "TIRS" "LINEAGEQA"),
   :ubid "LANDSAT_8/OLI_TIRS/LINEAGEQA",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"}
@@ -48,7 +48,7 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("LANDSAT_8" "OLI_TIRS" "PIXELQA"),
+  :tags ("LANDSAT" "8" "OLI" "TIRS" "PIXELQA"),
   :ubid "LANDSAT_8/OLI_TIRS/PIXELQA",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"}
@@ -67,7 +67,7 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("LANDSAT_8" "OLI_TIRS" "SOZ4"),
+  :tags ("LANDSAT" "8" "OLI" "TIRS" "SOZ4"),
   :ubid "LANDSAT_8/OLI_TIRS/SOZ4",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"}
@@ -86,7 +86,7 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("LANDSAT_8" "OLI_TIRS" "SOA4"),
+  :tags ("LANDSAT" "8" "OLI" "TIRS" "SOA4"),
   :ubid "LANDSAT_8/OLI_TIRS/SOA4",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"}
@@ -105,7 +105,7 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("LANDSAT_8" "OLI_TIRS" "SEZ4"),
+  :tags ("LANDSAT" "8" "OLI" "TIRS" "SEZ4"),
   :ubid "LANDSAT_8/OLI_TIRS/SEZ4",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"}
@@ -124,7 +124,7 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("LANDSAT_8" "OLI_TIRS" "SEA4"),
+  :tags ("LANDSAT" "8" "OLI" "TIRS" "SEA4"),
   :ubid "LANDSAT_8/OLI_TIRS/SEA4",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"}
@@ -143,7 +143,16 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("plurpal" "aerosol" "coastal" "LANDSAT_8" "OLI_TIRS" "TAB1"),
+  :tags
+  ("LANDSAT"
+   "8"
+   "OLI"
+   "TIRS"
+   "TAB1"
+   "plurpal"
+   "aerosol"
+   "coastal"
+   "ta"),
   :ubid "LANDSAT_8/OLI_TIRS/TAB1",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"}
@@ -162,7 +171,7 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("blue" "LANDSAT_8" "OLI_TIRS" "TAB2"),
+  :tags ("LANDSAT" "8" "OLI" "TIRS" "TAB2" "blue" "ta"),
   :ubid "LANDSAT_8/OLI_TIRS/TAB2",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"}
@@ -181,7 +190,7 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("green" "LANDSAT_8" "OLI_TIRS" "TAB3"),
+  :tags ("LANDSAT" "8" "OLI" "TIRS" "TAB3" "green" "ta"),
   :ubid "LANDSAT_8/OLI_TIRS/TAB3",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"}
@@ -200,7 +209,7 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("red" "LANDSAT_8" "OLI_TIRS" "TAB4"),
+  :tags ("LANDSAT" "8" "OLI" "TIRS" "TAB4" "red" "ta"),
   :ubid "LANDSAT_8/OLI_TIRS/TAB4",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"}
@@ -219,7 +228,7 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("nir" "LANDSAT_8" "OLI_TIRS" "TAB5"),
+  :tags ("LANDSAT" "8" "OLI" "TIRS" "TAB5" "nir" "ta"),
   :ubid "LANDSAT_8/OLI_TIRS/TAB5",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"}
@@ -238,7 +247,7 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("swir1" "LANDSAT_8" "OLI_TIRS" "TAB6"),
+  :tags ("LANDSAT" "8" "OLI" "TIRS" "TAB6" "swir1" "ta"),
   :ubid "LANDSAT_8/OLI_TIRS/TAB6",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"}
@@ -257,7 +266,7 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("swir2" "LANDSAT_8" "OLI_TIRS" "TAB7"),
+  :tags ("LANDSAT" "8" "OLI" "TIRS" "TAB7" "swir2" "ta"),
   :ubid "LANDSAT_8/OLI_TIRS/TAB7",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"}
@@ -276,7 +285,7 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("cirrus" "LANDSAT_8" "OLI_TIRS" "TAB9"),
+  :tags ("LANDSAT" "8" "OLI" "TIRS" "TAB9" "cirrus" "ta"),
   :ubid "LANDSAT_8/OLI_TIRS/TAB9",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"}
@@ -295,7 +304,7 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("LANDSAT_8" "OLI_TIRS" "BTB10"),
+  :tags ("LANDSAT" "8" "OLI" "TIRS" "BTB10"),
   :ubid "LANDSAT_8/OLI_TIRS/BTB10",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"}
@@ -314,7 +323,7 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("LANDSAT_8" "OLI_TIRS" "BTB11"),
+  :tags ("LANDSAT" "8" "OLI" "TIRS" "BTB11"),
   :ubid "LANDSAT_8/OLI_TIRS/BTB11",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"}
@@ -355,7 +364,7 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("LANDSAT_8" "OLI_TIRS" "RADSATQA"),
+  :tags ("LANDSAT" "8" "OLI" "TIRS" "RADSATQA"),
   :ubid "LANDSAT_8/OLI_TIRS/RADSATQA",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"}
@@ -374,7 +383,16 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("plurpal" "aerosol" "coastal" "LANDSAT_8" "OLI_TIRS" "SRB1"),
+  :tags
+  ("LANDSAT"
+   "8"
+   "OLI"
+   "TIRS"
+   "SRB1"
+   "sr"
+   "plurpal"
+   "aerosol"
+   "coastal"),
   :ubid "LANDSAT_8/OLI_TIRS/SRB1",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"}
@@ -393,7 +411,7 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("blue" "LANDSAT_8" "OLI_TIRS" "SRB2"),
+  :tags ("LANDSAT" "8" "OLI" "TIRS" "SRB2" "blue" "sr"),
   :ubid "LANDSAT_8/OLI_TIRS/SRB2",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"}
@@ -412,7 +430,7 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("green" "LANDSAT_8" "OLI_TIRS" "SRB3"),
+  :tags ("LANDSAT" "8" "OLI" "TIRS" "SRB3" "sr" "green"),
   :ubid "LANDSAT_8/OLI_TIRS/SRB3",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"}
@@ -431,7 +449,7 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("red" "LANDSAT_8" "OLI_TIRS" "SRB4"),
+  :tags ("LANDSAT" "8" "OLI" "TIRS" "SRB4" "sr" "red"),
   :ubid "LANDSAT_8/OLI_TIRS/SRB4",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"}
@@ -450,7 +468,7 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("nir" "LANDSAT_8" "OLI_TIRS" "SRB5"),
+  :tags ("LANDSAT" "8" "OLI" "TIRS" "SRB5" "nir" "sr"),
   :ubid "LANDSAT_8/OLI_TIRS/SRB5",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"}
@@ -469,7 +487,7 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("swir1" "LANDSAT_8" "OLI_TIRS" "SRB6"),
+  :tags ("LANDSAT" "8" "OLI" "TIRS" "SRB6" "sr" "swir1"),
   :ubid "LANDSAT_8/OLI_TIRS/SRB6",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"}
@@ -488,7 +506,7 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("swir2" "LANDSAT_8" "OLI_TIRS" "SRB7"),
+  :tags ("LANDSAT" "8" "OLI" "TIRS" "SRB7" "sr" "swir2"),
   :ubid "LANDSAT_8/OLI_TIRS/SRB7",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"}
@@ -515,7 +533,7 @@
   :satellite "LANDSAT_8",
   :shift_x 2415.0,
   :shift_y -195.0,
-  :tags ("LANDSAT_8" "OLI_TIRS" "SRAEROSOLQA"),
+  :tags ("LANDSAT" "8" "OLI" "TIRS" "SRAEROSOLQA"),
   :ubid "LANDSAT_8/OLI_TIRS/SRAEROSOLQA",
   :wkt
   "PROJCS[\"Albers\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.2572221010042,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Albers_Conic_Equal_Area\"],PARAMETER[\"standard_parallel_1\",29.5],PARAMETER[\"standard_parallel_2\",45.5],PARAMETER[\"latitude_of_center\",23],PARAMETER[\"longitude_of_center\",-96],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]]]"})
